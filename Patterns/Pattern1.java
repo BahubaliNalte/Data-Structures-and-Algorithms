@@ -1,4 +1,4 @@
-public class Pattern {
+public class Pattern1 {
     public static void main(String[] args) {
         int n = 4;
 
@@ -6,14 +6,15 @@ public class Pattern {
             for (int j=0; j<n; j++){
                 System.out.print("*");
             }
-            System.err.println();
+            System.out.println();
         }
     }    
 }
 
 
-OUTPUT:
-****
-****
-****
-****
+// OUTPUT:
+// ****
+// ****
+// ****
+// ****
+

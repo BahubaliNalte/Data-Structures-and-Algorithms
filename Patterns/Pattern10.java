@@ -6,20 +6,20 @@ public class Pattern10 {
             int stars = i;
             if( i>n ) stars = 2 * n - i ;
             for (int j=1; j<=stars; j++){
-                System.err.print("*");
+                System.out.print("*");
             }
-            System.err.println();
+            System.out.println();
         }
     }     
 }
 
-OUTPUT:
-*
-**
-***
-****
-*****
-****
-***
-**
-*
+// OUTPUT:
+// *
+// **
+// ***
+// ****
+// *****
+// ****
+// ***
+// **
+// *

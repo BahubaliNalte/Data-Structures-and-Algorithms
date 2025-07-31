@@ -42,9 +42,9 @@ public class Pattern17 {
     }
 }
 
-OUTPUT:
-    A
-   ABA
-  ABCBA
- ABCDCBA
-ABCDEDCBA
+// OUTPUT:
+//     A
+//    ABA
+//   ABCBA
+//  ABCDCBA
+// ABCDEDCBA

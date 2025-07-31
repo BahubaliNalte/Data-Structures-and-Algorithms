@@ -11,9 +11,9 @@ public class Pattern14 {
     }
 }
 
-OUTPUT:
-A 
-A B       
-A B C     
-A B C D   
-A B C D E 
+// OUTPUT:
+// A 
+// A B       
+// A B C     
+// A B C D   
+// A B C D E 

@@ -4,16 +4,17 @@ public class Pattern6 {
 
         for (int i=0; i<n; i++){
             for (int j=1; j<=n-i; j++){
-                System.err.print(j);
+                System.out.print(j);
             }
-            System.err.println();
+            System.out.println();
         }
     }
 }
 
-OUTPUT:
-12345
-1234
-123
-12
-1
+// OUTPUT:
+// 12345
+// 1234
+// 123
+// 12
+// 1
+
